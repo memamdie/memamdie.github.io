@@ -1,3 +1,6 @@
+#white {
+	color: white;
+}
 #red {
 	color: red;
 }
@@ -12,6 +15,7 @@
 }
 #orange {
 	color: #ff9902;
+
 }
 #aqua {
 	color: aqua;
@@ -21,9 +25,26 @@
 	color: brown;
 }
 body {
-  padding-top: 50px;
+	padding-top: 50px;
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+#home {
+	background-color: orange; 
+	background-size: cover;
+	height: 100vh;
+	padding: 40px 15px;
+	text-align: center;
+}
+
+#past {
+	background-color: blue;
+}
+#present {
+	background-color: aqua;
+}
+#future {
+	background-color: green;
 }
