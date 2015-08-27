@@ -1,0 +1,29 @@
+#red {
+	color: red;
+}
+#blue {
+	color: blue;
+}
+#green {
+	color: green;
+}
+#purple {
+	color: #a700ff;
+}
+#orange {
+	color: #ff9902;
+}
+#aqua {
+	color: aqua;
+}
+
+#poop {
+	color: brown;
+}
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
