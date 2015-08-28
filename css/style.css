@@ -20,31 +20,53 @@
 #aqua {
 	color: aqua;
 }
-
-#poop {
-	color: brown;
-}
-body {
-	padding-top: 50px;
-}
 .starter-template {
-  padding: 40px 15px;
+  padding: 0 !important;
   text-align: center;
 }
 #home {
-	background-color: orange; 
-	background-size: cover;
-	height: 100vh;
-	padding: 40px 15px;
 	text-align: center;
+	color: black;
+	width: auto;
+	height: auto;
+	opacity: .9;
 }
+.jumbotron {
+	background: #5fc2ff;
+	color: #434f55;
+}
+#about {
+	background: #5fc2ff;
+	opacity: .8;
+	font-size: large;
+	text-align: center;
+	color: #434f55;
+	vertical-align: middle;
+	padding-top: 20px;
+}
+#contact {
+	background: #5fc2ff;
+	opacity: .8;
+	font-size: large;
+	text-align: center;
+	color: #434f55;
+	vertical-align: middle;
+	padding-top: 20px;
 
-#past {
-	background-color: blue;
 }
-#present {
-	background-color: aqua;
+#dark-grey {
+	background: #565656
+	color: white;
 }
-#future {
-	background-color: green;
+.past {
+}
+.present {
+}
+.future {
+}
+.panel panel-default {
+	background: #ff5e5e;
+}
+.panel {
+	background: #5fc2ff;
 }
