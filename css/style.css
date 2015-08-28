@@ -254,7 +254,7 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url(file:///Users/memamdie/Downloads/focal/images/swamp_band.jpg);
+	background: url(../images/swamp_band.jpg);
 	background-size: cover;
 }
 .banner-content{
@@ -359,7 +359,7 @@ h2.title{
 =====================================================*/
 .photos {
     background-color: transparent;
-    background: url(http://1drv.ms/1UbH6Vk);
+    background: url(../images/tunnel.jpg);
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
@@ -375,7 +375,7 @@ h2.title{
 }
 .baby-pics {
     background-color: transparent;
-    background: url(http://1drv.ms/1JCjfrf);
+    background: url(../images/baby1.jpg);
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
@@ -391,7 +391,7 @@ h2.title{
 }
 .six-flags {
     background-color: transparent;
-    background: url(http://1drv.ms/1UbH9kb);
+    background: url(../images/six-flags.jpg);
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
