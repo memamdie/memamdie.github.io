@@ -94,7 +94,7 @@ a:visited{
 
 a:hover{
 	text-decoration: none;
-	color: #2ecc71;
+	color: #2fcc70;
 	cursor: pointer;
 }
 
@@ -215,7 +215,7 @@ h5{
 	border-radius: 0px;
 	font-weight: 700;
 	background: transparent;
-	color: #2ecc71;
+	color: #2fcc70;
 	margin-top: 50px;
 	-webkit-transition: all .4s ease-in 0s;
 	-o-transition: all .4s ease-in 0s;
@@ -254,7 +254,7 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url(file:///Users/memamdie/OneDrive/Documents/College/Fall%202015/CEN%203031/memamdie.github.io/images/swamp_band.jpg) ;
+	background: url(https://github.com/memamdie/memamdie.github.io/blob/master/images/swamp_band.jpg) ;
 	background-size: cover;
 }
 .banner-content{
@@ -359,7 +359,7 @@ h2.title{
 =====================================================*/
 .photos {
     background-color: transparent;
-    background: url(file:///Users/memamdie/OneDrive/Documents/College/Fall%202015/CEN%203031/memamdie.github.io/images/tunnel.jpg);
+    background: url(https://github.com/memamdie/memamdie.github.io/blob/master/images/tunnel.jpg);
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
@@ -375,7 +375,7 @@ h2.title{
 }
 .baby-pics {
     background-color: transparent;
-    background: url(file:///Users/memamdie/OneDrive/Documents/College/Fall%202015/CEN%203031/memamdie.github.io/images/baby1.jpg);
+    background: url(https://github.com/memamdie/memamdie.github.io/blob/master/images/baby1.jpg);
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
