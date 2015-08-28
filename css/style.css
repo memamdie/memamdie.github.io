@@ -64,8 +64,8 @@
 }
 .future {
 }
-.panel panel-default {
-	background: #ff5e5e;
+.panel-title {
+	font-size: 200%;
 }
 .panel {
 	background: #5fc2ff;
