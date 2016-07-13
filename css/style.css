@@ -1,8 +1,8 @@
 /*
-	Template Name: 
+	Template Name:
 	Author: Themeturn
 	Author URI: http://themeforest.net/user/ThemeTurn
-	Description: 
+	Description:
 	Version: 1.0
 */
 
@@ -57,9 +57,9 @@
 
 @font-face {
 	font-family: 'MyriadPro-Regular';
-	src: url('fonts/MyriadPro-Regular.eot?') format('eot'), 
+	src: url('fonts/MyriadPro-Regular.eot?') format('eot'),
 	     url('fonts/MyriadPro-Regular.otf')  format('opentype'),
-	     url('fonts/MyriadPro-Regular.woff') format('woff'), 
+	     url('fonts/MyriadPro-Regular.woff') format('woff'),
 	     url('fonts/MyriadPro-Regular.ttf')  format('truetype'),
 	     url('fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
 }
@@ -146,7 +146,7 @@ ul,li{
 body, p{
 	/*font-family: 'MyriadPro-Regular', serif;*/
 	font-family: 'Roboto', sans-serif;
-	font-weight: 400; 
+	font-weight: 400;
 	font-size: 18px;
 	line-height: 30px;
 }
@@ -264,22 +264,22 @@ h2.heading-title{
 h2.title{
 	font-size: 60px;
 	line-height:60px;
-	color: #5fc2ff;
+	color: #49d3ff;
 	font-weight: 700;
 	text-transform: uppercase;
 }
 
 .line-top{
 	width: 930px;
-	color: #fff;
-	background: #fff;
+	color: #000000;
+	background: #000000;
 	height: 2px;
 	margin: 32px auto;
 }
 .line-btm{
 	width: 930px;
-	color: #fff;
-	background: #fff;
+	color: #000000;
+	background: #000000;
 	height: 2px;
 	margin: 32px auto;
 }
@@ -368,7 +368,7 @@ h2.title{
     right: 0px;
     top: 0px;
     height: 100%;
-    z-index: 2; 
+    z-index: 2;
     background-size: cover;
     background-position: 0px center, 0px center;
 	width: 45%;
@@ -384,7 +384,7 @@ h2.title{
     left: 0px;
     top: 0px;
     height: 100%;
-    z-index: 2; 
+    z-index: 2;
     background-size: cover;
     background-position: -40px center, 0px center;
     width: 45%;
@@ -550,7 +550,7 @@ h2.title{
 }
 .contact-left ul li span{
 	color: #fff;
-	
+
 }
 
 /*==========================================================
