@@ -406,12 +406,12 @@ h2.title{
     width: 45%;
 }
 /*==================================================
-	section-profile
+	about-me
 =====================================================*/
-#section-skill .btn-default.featured{
+#skills .btn-default.featured{
 	padding: 20px 36px!important;
 }
-#section-profile{
+#about-me{
 	background: #f2f2f1;
 }
 
@@ -468,7 +468,7 @@ h2.title{
 	line-height: 30px;
 }
 
-/*section-skills
+/*skillss
 ===============================================*/
 .skill-box{
 	margin-bottom: 40px;
@@ -498,14 +498,14 @@ h2.title{
 }
 
 
-/*section-resume
+/*resume
 ==========================================*/
 
-#section-resume{
+#resume{
 	background: #f2f2f1;
 	position: relative;
 }
-#section-resume:after{
+#resume:after{
 	position: absolute;
 	content:"";
 	width: 40px;
@@ -523,10 +523,10 @@ h2.title{
 /*SECTION contact
 =================================================*/
 
-#section-contact{
+#contact-info{
 	background: #252e30;
 }
-#section-contact .heading-title{
+#contact-info .heading-title{
 	color: #fff;
 }
 .contact-left{
